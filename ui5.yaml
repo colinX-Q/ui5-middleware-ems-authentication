@@ -1,0 +1,7 @@
+specVersion: '2.2'
+kind: extension
+type: server-middleware
+metadata:
+  name: authentication
+middleware:
+  path: lib/auth.js
