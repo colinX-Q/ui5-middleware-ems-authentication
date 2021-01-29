@@ -2,6 +2,6 @@ specVersion: '2.2'
 kind: extension
 type: server-middleware
 metadata:
-  name: authentication
+  name: ui5-middleware-ems-authentication
 middleware:
   path: lib/auth.js
